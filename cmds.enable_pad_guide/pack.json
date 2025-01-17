@@ -1,0 +1,7 @@
+{
+	"textureldr": "1.6.1",
+	"name": "Enable Pad Guide (TPOTS)",
+	"id": "cmds.enable_pad_guide",
+	"version": "1.0.0",
+	"author": "CMDs"
+}
